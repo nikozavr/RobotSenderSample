@@ -1,0 +1,6 @@
+<scenario id="connection">
+    <bml>
+        <figure lexeme="happy2"/>
+        <speech text="Проверка"/>
+    </bml>
+</scenario>
